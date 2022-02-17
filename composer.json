@@ -23,7 +23,7 @@
         "laravel/framework": "^5.*",
         "propel/propel": "^2.0.0"
     },
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
